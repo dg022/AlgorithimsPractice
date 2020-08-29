@@ -19,4 +19,3 @@
 
 Files are in folder corresponding to difficulty
 
-"Suffer the pain of disipline, or suffer the pain of regret"
