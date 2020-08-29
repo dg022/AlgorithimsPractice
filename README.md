@@ -17,5 +17,3 @@
 13. Greedy Algorithms
 
 
-Files are in folder corresponding to difficulty
-
